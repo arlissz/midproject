@@ -1,0 +1,559 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.kepala-suku {
+    background-image: url(https://www.mining-indonesia.com/wp-content/uploads/2021/02/bghead-2023-sm.webp);
+    background-size: cover;
+}
+
+.header-img {
+    width: 16%;
+    margin-left: 220px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+    padding-right: 0;
+}
+
+.header-h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: -110px;
+    margin-left: -170px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.header-h3 {
+    display: flex;
+    justify-content: center;
+    margin-left: -110px;
+    padding-bottom: 40px;
+    color: white;
+}
+
+header h4 a:hover {
+    color: #fcb900;
+}
+
+.header-h4 {
+    padding-left: 30px;
+}
+
+.header-h5 {
+    padding-left: 50px;
+}
+
+header a {
+    color: white;
+}
+
+.dalem a:hover {
+    color: #fcb900;
+}
+
+.navbar {
+    z-index: 90;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-top: 2px solid gray;
+}
+
+.tambahan {
+    display: flex;
+    margin-left: 200px;
+    padding-bottom: 10px;
+}
+
+.saya-pusing {
+    background-image: url(https://www.mining-indonesia.com/wp-content/uploads/2023/09/Thank-You-Banner-Mining-Indonesia.jpg);
+    background-size: cover;
+    height: 414px;
+    width: 1140px;
+    margin: auto;
+}
+
+.dalem {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div-atas-kedua {
+    background-image: url(https://www.mining-indonesia.com/wp-content/uploads/2022/11/bg-about.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-top: -290px;
+    padding-top: 350px;
+    padding-bottom: 60px;
+}
+
+.hai {
+    font-size: 40px;
+}
+
+.web-makeMe-dizzy {
+    background-color: #fcb900;
+    padding-top: 16px;
+    padding-right: 30px;
+    padding-bottom: 16px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+div a {
+    color: white;
+    font-weight: bold;
+}
+
+.kotak {
+    display: flex;
+    margin-top: -60px;
+    text-align: center;
+    justify-content: center;
+    height: 350px;
+}
+
+.kotak-satu {
+    color: white;
+    border-radius: 12px;
+    margin-right: 10px;
+    width: 270px;
+    background-color: #1E1E1EF0;
+}
+
+.kotak-dua {
+    color: white;
+    border-radius: 12px;
+    margin-right: 10px;
+    width: 260px;
+    background-color: #1E1E1EF0;
+}
+
+.kotak-tiga {
+    color: white;
+    border-radius: 12px;
+    margin-right: 10px;
+    width: 260px;
+    background-color: #1E1E1EF0;
+}
+
+.kotak-empat {
+    color: white;
+    border-radius: 12px;
+    margin-right: 10px;
+    width: 260px;
+    background-color: #1E1E1EF0;
+}
+
+.earth {
+    margin-top: 30px;
+}
+
+.were {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.jiek {
+    color: grey;
+    margin-top: 20px;
+}
+
+.fom-1 p {
+    border: 3px solid #fcb900;
+    box-sizing: border-box;
+    border-radius: 12px;
+    /* margin-top: 35px; */
+    margin:30px 50px auto 50px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.kalender {
+    margin-top: 30px;
+}
+
+.wehen {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.kalenderdalam {
+    margin-top: 15px;
+}
+
+.tgl-satu {
+    color: gray;
+}
+
+.tgl-dua {
+    color: gray;
+}
+
+.tgl-tiga {
+    color: gray;
+}
+
+.expro {
+    margin-top: 5px;
+}
+
+.kubus {
+    margin-top: 30px;
+}
+
+.box-ketiga-text  {
+    margin-top: 25px;
+    color: gray;
+}
+
+.bys p {
+    border: 3px solid #fcb900;
+    box-sizing: border-box;
+    border-radius: 12px;
+    /* margin-top: 35px; */
+    margin:16px 50px auto 50px;
+    padding-top: 9px;
+    padding-bottom: 9px;   
+}
+
+.fom p {
+    border: 3px solid #fcb900;
+    box-sizing: border-box;
+    border-radius: 12px;
+    /* margin-top: 35px; */
+    margin:20px 50px auto 50px;
+    padding-top: 9px;
+    padding-bottom: 9px;     
+}
+
+.cos {
+    border: 3px solid #fcb900;
+    box-sizing: border-box;
+    border-radius: 12px;
+    /* margin-top: 35px; */
+    margin:20px 50px auto 50px;
+    padding-top: 9px;
+    padding-bottom: 9px;  
+}
+
+.people-hands {
+    margin-top: 23px;
+}
+
+.organisasi {
+    margin-top: 12px;
+}
+
+.box-keempat-text {
+    margin-top: 24px;
+    color: gray;
+}
+
+.m-365 {
+    color: white;
+}
+
+main img {
+    width: 70%;
+    margin-left: 200px;
+}
+
+.tengah {
+    background-color: #fcb900;
+    font-size: 25px;
+    padding-top: 80px;
+    color: black;
+}
+
+footer div p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.ci {
+    font-size: 18px;
+    background-color: #fcb900;
+    padding-top: 38px;
+    font-weight: 650;
+    color: black;
+}
+
+.hss {
+    display: block;
+}
+
+.ias {
+    display: flex;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.ias-image {
+    width: 260px;
+    height: 150px;
+}
+
+.ias-text {
+    font-size: 17px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.sus-utama {
+    color: black;
+}
+
+.sus {
+    display: flex;
+}
+
+.sus-image {
+    width: 150px;
+}
+
+.sus-text {
+    font-family: "Open Sans", sans-serif;
+    margin-left: 130px;
+    margin-top: 60px;
+    color: black;
+}
+
+.sus-akhir {
+    text-align: left;
+    margin-left: 450px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #c4aa17;
+}
+
+.zell {
+    background-color: #fcb900;
+    padding-bottom: 60px;
+    padding-top: 9px;
+    font-size: 15px;
+    color: black;
+}
+
+.korea {
+    margin-top: 25px;
+}
+
+.helty {
+    margin-top: 35px;
+    color: black;
+    text-align: center;
+}
+
+.text-atas {
+    text-align: center;
+    background-color: #1E1E1EF0;
+    padding-top: 50px;
+    font-weight: bolder;
+}
+
+.text-atas-h3 {
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+}
+
+.gambar-truck-blur-1 {
+    background-image: url(https://www.mining-indonesia.com/wp-content/uploads/2022/11/bg-report.jpg);
+    color: white;
+    background-size: cover;
+    padding-top: 60px;
+    height: 300px;
+}
+
+.sama {
+    text-align: center;
+}
+
+.kamu {
+    text-align: center;
+    color: #cfcfcf;
+}
+
+.orang {
+    width: 80px;
+}
+
+.o2p {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.psss {
+    text-align: center;
+    justify-content: center;
+}
+
+.partners {
+    display: flex;
+}
+
+.sany {
+    width: 180px;
+    height: 100px;
+}
+
+.develon {
+    width: 180px;
+    height: 100px;
+}
+
+.mining-indonesia {
+    background-image: url(	https://www.mining-indonesia.com/wp-content/uploads/2021/04/bg-connect-scaled.jpg);
+    background-size: cover;
+    height: 100px;
+}
+
+.mining-indonesia h4 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+}
+
+.mi-text {
+    padding-top: 35px;
+}
+
+.yang-dibawah {
+    display: flex;
+}
+
+.gabungan-orang {
+    display: flex;
+
+}
+
+.tas {
+    width: 80px;
+}
+
+.bumi {
+    width: 80px;
+}
+
+.box {
+    width: 80px;
+}
+
+.align {
+    text-align: center;
+}
+
+.gabungan-tas {
+    display: flex;
+}
+
+.gabungan-bumi {
+    display: flex;
+}
+
+.gabungan-box {
+    display: flex;
+}
+
+.footer-text-1 {
+    color: #fcb900;
+    font-size: 18px;
+}
+
+.footer-text-2 {
+    padding-top: 15px;
+    color: antiquewhite;
+}
+
+.footer-text-3 {
+    color: #fcb900;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.footer-text-4 {
+    color: #fcb900;
+}
+
+.footer-text-5 {
+    color: antiquewhite;
+    padding-top: 15px;
+}
+
+.footer-text-6 {
+    color: #fcb900;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.footer-text-7 {
+    color: #fcb900;
+}
+
+.footer-text-8 {
+    color: antiquewhite;
+    padding-top: 15px;
+}
+
+.footer-text-9 {
+    padding-top: 15px;
+    color: antiquewhite;
+}
+
+.footer-img {
+    padding-top: 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1E1E1EF0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sp {
+    color: antiquewhite;
+}
+
+.logo {
+    width: 18px;
+}
+
+.footer-akhir {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -300px;
+}
+
+.border {
+    width: 100px;
+}
+
+.border {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.copy {
+    padding-top: 45px;
+    margin-right: 200px;
+}
+
+.iya {
+    width: 100%;
+}
